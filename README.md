@@ -141,4 +141,4 @@ RoomFix is configured to run effortlessly as a serverless application on Vercel.
 - **Image Handling**: Maximum file size limit (10MB) applied to prevent server overload.
 
 ---
-*Developed for Academic Implementation - 2026. Created by Antigravity AI Assistant.*
+*Developed for Academic Implementation - 2026.*
